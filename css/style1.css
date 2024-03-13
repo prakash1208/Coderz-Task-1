@@ -1,0 +1,79 @@
+body {
+    font-family: "Jost", sans-serif;
+    font-optical-sizing: auto;
+    font: weight 700px;
+    font-style: normal;
+}
+
+.container {
+    position: absolute;
+    width: 80%;
+    height: 80%;
+    margin-top: 50px;
+    margin-left: 150px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.title {
+    font-family: Jost;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 46px;
+    letter-spacing: -0.25px;
+    text-align: left;
+}
+.tit{
+    width: 345px;
+    height: 76px;
+    top: 112px;
+}
+
+.child {
+    font-family: Jost;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 38px;
+    letter-spacing: 0px;
+    text-align: left;
+    padding-bottom: 20px;
+    color: rgba(85, 112, 135, 1);
+
+}
+
+.button {
+    width: 169px;
+    height: 56px;
+    top: 359px;
+    left: 167px;
+    font-family: Jost;
+    background: #557087;
+    border: none;
+
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 20px;
+    letter-spacing: 1px;
+    text-align: center;
+
+}
+
+image {
+    width: 630px;
+    height: 322px;
+    top: 120px;
+    left: 642px;
+}
+
+
+.container2 {
+    position: absolute;
+    width: 80%;
+    height: 80%;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 420px;
+    margin-left: 150px;
+    padding-bottom: 20px;
+}

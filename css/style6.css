@@ -1,0 +1,130 @@
+body {
+    font-family: "Jost", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.bton {
+    width: 250px;
+    height: 39px;
+    left: 555px;
+    font-family: Jost;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 20px;
+    letter-spacing: 1px;
+    text-align: left;
+    background: none;
+    color: rgba(85, 112, 135, 1);
+    border-bottom: 2px solid rgba(0, 69, 255, 1);
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+
+.bton:hover {
+    color: rgb(192, 94, 9);
+    border-color:  rgb(192, 94, 9);
+}
+
+.option {
+    display: flex;
+    justify-content:center;
+    background-color: white;
+    color: rgba(85, 112, 135, 1);
+    font-family: Jost;
+    font-size: 10px;
+    font-weight: 700;
+    line-height: 10px;
+    letter-spacing: 1px;
+    border: bottom 20%;
+    text-align: justify;
+    font-size: 14px;
+    width: 1105px;
+    height: 39px;
+    top: 120px;
+    left: 167px;
+    margin: auto;
+}
+
+.image {
+    gap: 30px;
+    width: 535px;
+    height: 321px;
+    top: 215px;
+    left: 167px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+
+}
+
+.cont {
+    width: 535px;
+    height: 605px;
+    top: 215px;
+    left: 167px;
+
+
+}
+
+.title1 {
+    width: 535px;
+    height: 46px;
+    font-family: Jost;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 46px;
+    letter-spacing: -0.25px;
+    text-align: left;
+    color: rgba(19, 36, 51, 1);
+
+}
+
+.child {
+    font-family: Jost;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 38px;
+    letter-spacing: 0px;
+    text-align: left;
+    width: 535px;
+    height: 76px;
+    top: 56px;
+    color: rgba(85, 112, 135, 1);
+}
+
+.click1 {
+    width: 169px;
+    height: 56px;
+    top: 764px;
+    left: 167px;
+    font-family: Jost;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 20px;
+    letter-spacing: 1px;
+    text-align: center;
+    color: rgba(255, 255, 255, 1);
+    background: rgba(85, 112, 135, 1);
+    border: 1px solid rgb(83, 103, 122);
+
+}
+
+.click2 {
+    width: 169px;
+    height: 56px;
+    top: 764px;
+    left: 167px;
+    font-family: Jost;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 20px;
+    letter-spacing: 1px;
+    text-align: center;
+    background: rgba(255, 255, 255, 1);
+    color: rgba(85, 112, 135, 1);
+    border: 1px solid rgb(83, 103, 122);
+}

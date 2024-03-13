@@ -1,0 +1,150 @@
+body {
+    font-family: "Jost", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.title {
+
+
+    width: 80%;
+    height: 80%;
+    font-family: Jost;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 63px;
+    letter-spacing: -0.5px;
+    text-align: center;
+}
+
+.container {
+    padding: 20px;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    margin: auto;
+}
+
+.child {
+
+    font-family: Jost;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 38px;
+    letter-spacing: 0px;
+    text-align: center;
+    width: 1180px;
+    height: 38px;
+    top: 79px;
+    color: rgba(85, 112, 135, 1);
+}
+
+.image {
+    width: 80px;
+    height: 80px;
+    top: 349px;
+    left: 680px;
+    margin: auto;
+    border-radius: 20px;
+    padding: 25px;
+
+}
+
+img {
+    border-radius: 50px;
+}
+
+.click1 {
+    width: 142px;
+    height: 48px;
+    font-family: Jost;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 20px;
+    letter-spacing: 1px;
+    text-align: center;
+    color: rgba(85, 112, 135, 1);
+
+
+}
+
+.total {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+.container1 {
+    width: 345px;
+    height: 415px;
+    top: 293px;
+    left: 167px;
+    background: rgba(224, 232, 240, 1);
+
+}
+
+
+
+.head {
+    font-family: Jost;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 29px;
+    letter-spacing: 0px;
+    text-align: center;
+    width: 281px;
+    height: 29px;
+    left: 1px;
+    color: rgba(19, 36, 51, 1);
+    padding-left: 30px;
+    padding-bottom: 10px;
+    margin: auto;
+    margin-top: 30px;
+
+
+}
+
+.sub {
+    font-family: Jost;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 23px;
+    letter-spacing: 0px;
+    text-align: center;
+    width: 270px;
+    height: 46px;
+    top: 39px;
+    border-bottom: 10PX;
+    color: rgba(85, 112, 135, 1);
+
+}
+
+.click {
+    justify-content: center;
+    display: flex;
+    padding: 100px;
+}
+
+.fclick {
+    top: 18px;
+    left: 19.5px;
+    font-family: Jost;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 20px;
+    letter-spacing: 1px;
+    text-align: center;
+    background: rgba(0, 69, 255, 1);
+    width: 169px;
+    height: 56px;
+    color: rgba(255, 255, 255, 1);
+    border: none;
+
+}
+
+.ha {
+    padding: 20px;
+    justify-content: center;
+    display: flex;
+}

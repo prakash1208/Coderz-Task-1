@@ -1,0 +1,70 @@
+body {
+    font-family: "Jost", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.title {
+    font-family: Jost;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 63px;
+    letter-spacing: -0.5px;
+    color: black;
+
+    text-align: center;
+}
+
+.child {
+    color: #557087;
+    width: 1500px;
+    height: 38px;
+    top: 79px;
+    font-family: Jost;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 38px;
+    letter-spacing: 0px;
+    padding-left: 10px;
+    text-align: center;
+    
+
+}
+
+.button {
+
+    top: 18px;
+    left: 19.5px;
+    font-family: Jost;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 20px;
+    letter-spacing: 1px;
+    text-align: center;
+    background: rgba(0, 69, 255, 1);
+    width: 169px;
+    height: 56px;
+    color: rgba(255, 255, 255, 1);
+    border: none;
+   
+}
+
+image {
+    width: 916px;
+    height: 471px;
+    top: 469px;
+    left: 262px;
+    background: rgba(224, 232, 240, 1);
+    align-items: center;
+    padding: 20px;
+}
+.align{
+    justify-content: center;
+    display: flex;
+}
+.click{
+    justify-content: center;
+    display: flex;
+    padding: 20px;
+}
